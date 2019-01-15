@@ -1,4 +1,4 @@
-# scala-js-helloworld-scalatags
+# Scala.js helloworld with Scalatags and JQuery
 A Hello World project to get started with Scala.js and Scalatags using the latest versions.
 
 Useful commands:
